@@ -1,22 +1,7 @@
 {
   "name": "my-location-app",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "firebase": "latest",
-    "@react-google-maps/api": "latest"
-  }
-}
-{
-  "name": "my-location-app",
-  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
